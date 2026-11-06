@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OUACBypass
+Comment=UAC Bypass Technique Catalog
+Exec=OUACBypass
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OAttack;
